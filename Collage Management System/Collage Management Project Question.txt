@@ -1,0 +1,28 @@
+Collage Management System-
+1.Admin Login
+	->View Student  data
+	->view hostel data
+	->View Supertiendent Data
+	->Add Collage informattion
+		->Collage name
+		->collage address
+		->collagefacility
+			->Libray
+			->canteen
+2.User Login
+	->Add Student Data
+	->Add supertiendent Data
+	->Add teacher Data
+3.Student Login
+	->view Student Data by roll num
+	->view collage data
+		->collage details
+		->collagefacility
+	->view teacher details
+	->view Hostel Data
+4.Supertiendent Login
+	->Add the Hostel Data by supertident id.
+	->Add the Hostel Facility
+	->view the hostel data
+	-viewthe hostel facility
+5.Exit
